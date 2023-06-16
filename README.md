@@ -22,12 +22,12 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://www.linkedin.com/in/marcos-caballero-831046236/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
+        <a href="https://www.linkedin.com/in/marcos-caballero-831046236/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/marcos-caballero-831046236/" alt="LinkedIn Badge"></a> 
+<!--       <a href="https://twitter.com/@lauragift_
 /"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
 <a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
    </p>
-
+-->
  <!-- Conecct section: END -->
  
   <!-- GitHub section -->
