@@ -42,7 +42,7 @@
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cabamarcos&show_icons=true" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&locale=en" alt="cabamarcos" /></p>
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
