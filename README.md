@@ -11,7 +11,7 @@
 ---
 ✨ I'm a CS student at Carlos III university in Madrid 
 
-- 💬 Ask me about: ...
+<!-- - 💬 Ask me about: -->
 
 - 📫 How to reach me: marcoscaballero.contacto@gmail.com
 
