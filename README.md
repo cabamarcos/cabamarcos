@@ -43,7 +43,7 @@
 
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&locale=en" alt="cabamarcos" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&locale=en" alt="cabamarcos" /></p>
 </details>
 
 <!-- GitHub section: END -->
