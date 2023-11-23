@@ -38,7 +38,7 @@
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabamarcos" alt="cabamarcos's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabamarcos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="cabamarcos's language" height="192px"  width="500px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabamarcos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="cabamarcos's language" height="192px"  width="500px"/>
 </div>
 
 <details>
