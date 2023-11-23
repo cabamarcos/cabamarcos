@@ -41,7 +41,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabamarcos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="cabamarcos's language" height="192px"  width="500px"/>
 </div>
 
-**Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&locale=en" alt="cabamarcos" /></p>
