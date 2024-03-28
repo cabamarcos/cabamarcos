@@ -10,7 +10,9 @@
 
 ---
 ✨ I'm a CS student at Carlos III university in Madrid 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="320" />
+<div style="margin-bottom: 20px">
+    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="320" />
+</div>
 <!-- - 💬 Ask me about: -->
 
 - 📫 How to reach me: marcoscaballero.contacto@gmail.com
