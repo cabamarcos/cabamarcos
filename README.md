@@ -68,12 +68,12 @@
 
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&locale=en" alt="cabamarcos" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&theme=rising-sun&show_icons=true&locale=en" alt="cabamarcos" /></p>
 </details>
 
 <!-- GitHub section: END -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabamarcos" alt="cabamarcos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabamarcos&theme=rising-sun" alt="cabamarcos" /></a> </p>
 
 
 <!-- THE END -->
