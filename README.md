@@ -58,8 +58,8 @@
 
   <!-- GitHub section -->
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabamarcos&theme=aura&title_color=808080&text_color=808080&icon_color=808080&include_all_commits=true&hide_border=true" alt="cabamarcos's LangStat" />
-<div>
+ ##  My GitHub Stats 
+ <div>
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabamarcos&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="cabamarcos's LangStat" />
     <img height=200 align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook" alt="GitHub Top Languages Stats">
 
