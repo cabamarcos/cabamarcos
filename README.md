@@ -65,6 +65,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabamarcos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="cabamarcos's language" height="192px"  width="400px"/>
 </div>
 
+<a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook">
+    <img height=300 align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook" alt="GitHub Top Languages Stats">
+</a>
 
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
