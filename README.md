@@ -61,13 +61,18 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
 <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabamarcos" alt="cabamarcos's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabamarcos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="cabamarcos's language" height="192px"  width="400px"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabamarcos" alt="cabamarcos's LangStat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabamarcos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="cabamarcos's language" height="192px"  width="400px"/>
 </div>
 
-<a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook">
+<div>
+  <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook">
     <img height=300 align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook" alt="GitHub Top Languages Stats">
-</a>
+  </a>
+  <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/wakatime?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024">
+    <img height=300 align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/wakatime?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024" alt="GitHub WakaTime Stats">
+  </a>
+</div>
 
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
