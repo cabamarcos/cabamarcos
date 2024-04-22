@@ -67,7 +67,7 @@
 
 <div>
   <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook">
-    <img height=300 align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook" alt="GitHub Top Languages Stats">
+    <img height=200 align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook" alt="GitHub Top Languages Stats">
   </a>
   <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/wakatime?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024">
     <img height=300 align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/wakatime?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&hide_border=true&include_all_commits=true&border_color=true&custom_title=WakaTime%20Time%20Spent%20since%20January%202024" alt="GitHub WakaTime Stats">
