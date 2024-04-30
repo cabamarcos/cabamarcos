@@ -62,7 +62,7 @@
  <div>
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabamarcos&theme=rising-sun&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="cabamarcos's LangStat" />
     <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true">
-        <img  align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="GitHub Top Languages Stats">
+        <img  align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook" alt="GitHub Top Languages Stats">
     </a>
 </div>
 
