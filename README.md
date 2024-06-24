@@ -74,6 +74,6 @@
 
 <!-- GitHub section: END -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabamarcos&theme=onestar&rank=-C"/></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabamarcos&theme=onestar&rank=-?"/></a></p>
 
 <!-- THE END -->
