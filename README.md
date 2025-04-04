@@ -37,19 +37,7 @@ I'm passionate about technology, AI, and solving problems in creative and effici
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/cabamarcos?tab=repositories">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&theme=radical"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&theme=vue"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&hide=jupyter%20notebook" />
-    </picture>
-  </a>
+  <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook">
 </div>
 <br />
 <br />
