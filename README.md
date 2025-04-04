@@ -1,7 +1,5 @@
 <!-- Presentation section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cabamarcos/cabamarcos/main/logo/preview.png" width="200">
-</p>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Marcos</h3>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
