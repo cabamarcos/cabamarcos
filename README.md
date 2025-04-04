@@ -1,79 +1,101 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Marcos</h3>
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cabamarcos&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<!-- Presentation section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cabamarcos/cabamarcos/main/logo/preview.png" width="200">
 </p>
 
-<!-- About section -->
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;AI%20Master%20Student;Always%20curious%20about%20tech&font=Fira%20Code&center=true&width=440&height=45&color=30C9A7&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
 ---
-✨ I'm a CS student at Carlos III university in Madrid 
-<div style="margin-bottom: 20px">
-    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="320" />
+
+<!-- Bio section -->
+Hey! I'm Marcos 👋 I'm currently studying **Computer Science** at Universidad Carlos III de Madrid, and doing a **Master in Artificial Intelligence**.  
+I'm passionate about technology, AI, and solving problems in creative and efficient ways. I enjoy learning, building things from scratch, and working across different stacks and tools. Hope you find something useful or cool in my repositories 😊
+
+<p align="right"><i>"The best way to predict the future is to invent it."</i> — Alan Kay</p>
+
+<!-- Stats section -->
+> 📊 GitHub Stats & Languages
+>
+
+<div align="center">
+  <a href="https://github.com/cabamarcos?tab=repositories">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&theme=radical"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cabamarcos?tab=repositories">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&theme=radical"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact" />
+    </picture>
+  </a>
 </div>
-<!-- - 💬 Ask me about: -->
+<br />
+<br />
 
-- 📫 How to reach me: marcoscaballero.contacto@gmail.com
-
-<!-- About section: END -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
-
-<!-- Conecct section -->
-
-<h2>Connect with me</h2>
-<div style="margin-bottom: 20px;">
-    <a href="https://www.linkedin.com/in/marcos-caballero-831046236/"><img src="https://img.shields.io/badge/-Linkedin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/marcos-caballero-831046236/" alt="LinkedIn Badge"></a> 
+<!-- Tools section -->
+> ⚙️ Tech I use, enjoy, and experiment with:
+>
+<div align="center">
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="Pytorch" width="30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />&nbsp;&nbsp;
+  <img alt="Scikit-Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />&nbsp;&nbsp;
+  <img alt="TensorFlow" width="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />&nbsp;&nbsp;
+  <img alt="OpenCV" width="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />&nbsp;&nbsp;
+  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+  <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
+  <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;&nbsp;
+  <img alt="Bash" width="30px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />&nbsp;&nbsp;
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="Oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
+  <img alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />&nbsp;&nbsp;
 </div>
- <!-- Conecct section: END -->
- 
-  <!-- GitHub section -->
+<br />
 
- ##  My GitHub Stats 
- <div>
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabamarcos&theme=rising-sun&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="cabamarcos's LangStat" />
-    <a href="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook">
-        <img  align="center" src="https://github-readme-stats-chi-lovat-26.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook" alt="GitHub Top Languages Stats">
-    </a>
-</div>
+<!-- Social media section -->
+> 📬 Reach out to me:
+> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-caballero-831046236/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="mailto:marcoscaballero.contacto@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/cabamarcos">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-
-<!-- <details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&locale=en" alt="cabamarcos" /></p>
-</details> -->
-
-<!-- GitHub section: END -->
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabamarcos&theme=onestar&rank=-?"/></a></p>
-
-<!-- THE END -->
+<!-- Profile views -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cabamarcos&label=Profile%20views&color=0e75b6&style=flat" alt="cabamarcos" /> </p>
