@@ -14,8 +14,6 @@
 Hey! I'm Marcos 👋 I'm currently studying **Computer Science** at Universidad Carlos III de Madrid, and doing a **Master in Artificial Intelligence**.  
 I'm passionate about technology, AI, and solving problems in creative and efficient ways. I enjoy learning, building things from scratch, and working across different stacks and tools. Hope you find something useful or cool in my repositories 😊
 
-<p align="right"><i>"The best way to predict the future is to invent it."</i> — Alan Kay</p>
-
 <!-- Stats section -->
 > 📊 GitHub Stats & Languages
 >
