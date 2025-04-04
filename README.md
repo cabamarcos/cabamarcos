@@ -76,7 +76,7 @@ I'm passionate about technology, AI, and solving problems in creative and effici
   <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;&nbsp;
   <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
   <img alt="Oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
-  <img alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />&nbsp;&nbsp;
+  <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
 </div>
 <br />
 
