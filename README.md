@@ -40,11 +40,11 @@ I'm passionate about technology, AI, and solving problems in creative and effici
   <a href="https://github.com/cabamarcos?tab=repositories">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=default&langs_count=14&theme=vue&include_all_commits=true&hide_border=true&hide=jupyter%20notebook"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact&langs_count=14&theme=aura&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true&hide=jupyter%20notebook"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=default&langs_count=14&theme=vue&include_all_commits=true&hide_border=true&hide=jupyter%20notebook"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
         <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabamarcos&layout=compact" />
