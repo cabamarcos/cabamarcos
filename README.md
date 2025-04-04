@@ -33,7 +33,7 @@ I'm passionate about technology, AI, and solving problems in creative and effici
         srcset="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true&theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabamarcos&theme=rising-sun&title_color=e1dad4&text_color=e1dad4&icon_color=e1dad4&include_all_commits=true&hide_border=true" alt="cabamarcos's LangStat" />
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=cabamarcos&show_icons=true" />
     </picture>
   </a>
   &nbsp;&nbsp;
