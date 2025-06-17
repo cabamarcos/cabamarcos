@@ -80,7 +80,7 @@ I'm passionate about technology, AI, and solving problems in creative and effici
 > 📬 Reach out to me:
 > 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-caballero-831046236/">
+  <a href="https://www.linkedin.com/in/marcos-caballero-cort%C3%A9s-831046236/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 &nbsp;&nbsp;&nbsp;
