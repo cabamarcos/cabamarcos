@@ -12,7 +12,7 @@
 
 <!-- Bio section -->
 Hey! I'm Marcos 👋 
-I'm a **Data & AI consultant at Management Solutions**, holding a **BSc in Computer Science** from Universidad Carlos III de Madrid and **MSc in Artificial Intelligence** from UNIR.  
+I'm a **Data & AI consultant at Gyrus DS**, holding a **BSc in Computer Science** from Universidad Carlos III de Madrid and **MSc in Artificial Intelligence** from UNIR.  
 I'm passionate about technology, AI, and solving problems in creative and efficient ways. I enjoy learning, building things from scratch, and working across different stacks and tools. Hope you find something useful or cool in my repositories 😊
 
 <!-- Stats section -->
